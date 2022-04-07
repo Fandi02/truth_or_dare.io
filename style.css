@@ -1,0 +1,61 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-image: url("img/background.jpg");
+  background-size: cover;
+}
+/* Halaman mulai */
+.kotak {
+  background-color: #fff;
+  opacity: 0.93;
+  border-radius: 25px;
+  padding: 10px;
+}
+
+/* Halaman kedua */
+
+/* Halaman permainan */
+.box {
+  background-color: #fff;
+  opacity: 1;
+  border-radius: 25px;
+}
+.container-fluid {
+  width: 85%;
+  height: max-content;
+  padding: 30px;
+  margin: 20px auto;
+}
+.question {
+  width: 75%;
+  height: max-content;
+  background-color: blue;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 20px;
+  color: white;
+}
+
+.truth {    
+  width: 20%;
+  height: max-content;
+  background-color: #6869ac;
+  margin: 20px auto;
+  padding: 12px;
+  border-radius: 20px;
+  color: white;
+  font-weight: 500;
+}
+
+.dare {
+  width: 20%;
+  height: max-content;
+  background-color: #ea435d;
+  margin: 20px auto;
+  padding: 12px;
+  border-radius: 20px;
+  color: white;
+  font-weight: 500;
+}
